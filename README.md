@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Site fictício criado para treinar os conceitos de HTML e CSS
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link]().
+Você pode visualizar o projeto através [desse link](https://valtercioj.github.io/brigadeiros/).
 
 ## :memo: Licença
 
