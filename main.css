@@ -1,0 +1,66 @@
+
+.title{
+    border-top: 2px solid black;
+    color: #9B0359;
+    width: 90vw;
+    margin: auto;
+    margin-top: 6vh;
+    border-bottom: 2px solid black;
+    padding: 25px 0;
+}
+
+.title h1{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Birthstone', sans-serif;
+}
+
+main p{
+    width: 90vw;
+    margin:40px auto;
+    
+    font-size: 1.3rem;
+}
+
+.geral{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+}
+
+.div-brigadeiros{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+.div-brigadeiros img{
+    width: 8vw;
+    height: 8vw;
+    margin: auto;
+}
+.div-brigadeiros h1{
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.div-brigadeiros p{
+ width: 30vw;
+ font-size: 20px;
+ text-align: center;
+}
+
+.pedido{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.pedido button{
+    background-color: #6F023F;
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    width: 160px;
+    border-radius: 10px;
+    
+}

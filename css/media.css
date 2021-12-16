@@ -1,0 +1,106 @@
+@media (max-width: 320px){
+    .menu nav ul li a{
+        font-size: 20px;
+    }    
+    .menu img{
+    
+        width: 15vw;
+        height: 10vh;
+    }
+    main .inicio h1{
+        margin-top: 15vh;
+        font-size: 35px;
+    }
+    .inicio{
+        display: flex;
+        justify-content: center;
+        width: 100vw;
+        text-align: center;
+        font-size: 40px;
+        padding: 15px;
+    }
+    .inicio h2{
+        font-size: 35px;
+        text-align: center;
+        padding: 10px;
+    }
+    .inicio p{
+        font-size: 18px;
+        margin-bottom: 60px;
+        width: 90vw;
+        text-align: center;
+    }
+    .brigadeiros img{
+       width: 100vw;
+       margin: auto;
+       background-size: cover;
+    }
+    .brigadeiros .news{
+        text-align: center;
+        padding: 25px;
+        width: 100vw;
+        background-color: #6F023F;
+    }
+    .brigadeiros .news h1, .title{
+        text-align: center;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 450px){
+    .menu nav ul li a{
+        font-size: 20px;
+    }
+    .menu img{
+        width: 15vw;
+        height: 10vh;
+    }
+    main .inicio h1{
+        margin-top: 2vh;
+        font-size: 35px;
+    }
+    .inicio {
+        width: 100vw;
+
+        text-align: center;
+        font-size: 40px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+    }
+    .inicio h2{
+        text-align: center;
+    }
+    .inicio p{
+        font-size: 23px;
+        margin-bottom: 50px;
+        width: 90vw;
+        text-align: center;
+    }
+    .brigadeiros img{
+        height: 50vh;
+        width: 100vw;
+        margin: auto;
+        background-size: cover;
+     }
+     .brigadeiros .news{
+         text-align: center;
+         padding: 25px;
+         width: 100vw;
+         background-color: #6F023F;
+     }
+     
+     .brigadeiros .news h1, .title{
+         text-align: center;
+         font-size: 40px;
+     }
+     .brigadeiros .news p{
+        font-size: 18px;
+    }
+}
+
+
+
+/* altura */
+

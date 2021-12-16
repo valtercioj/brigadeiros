@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+}
+
+.menu nav ul{
+    display: flex;
+    list-style: none;
+    height: 10vh;
+}
+
+.menu nav ul li{
+    padding: 20px;
+    
+}
+.menu nav ul li a{
+    text-decoration: none;
+    color: #9B3A92;
+}
+
+.menu nav ul li a:hover{
+    color:black;
+}
+
+.menu img{
+    
+    width: 5vw;
+    height: 10vh;
+}
